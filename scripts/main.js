@@ -22,11 +22,11 @@ myImage.onclick = function() {
 
 
 
-  if(mySrc === 'images/Messi.png') {
+  if(mySrc === 'images/Simon.png') {
 
 
 
-    myImage.setAttribute ('src','images/Cristiano.png');
+    myImage.setAttribute ('src','images/Yana.png');
 
 
 
@@ -34,7 +34,7 @@ myImage.onclick = function() {
 
 
 
-    myImage.setAttribute ('src','images/Messi.png');
+    myImage.setAttribute ('src','images/Simon.png');
 
 
 
